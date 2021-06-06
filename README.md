@@ -4,6 +4,11 @@
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
+* **Title:** Software Engineer - Data Engineer -Front End Developer
+* **Skills:** HTML,  CSS, JavaSript, React.js, 
+* **Timezone:** GMT+03:00
+* **Pronouns:** He
+
 - 🔭 I’m currently working on js projects
 - 🌱 I’m currently learning reactjs
 - 👯 I’m looking to collaborate on any project that I could add my ideas
