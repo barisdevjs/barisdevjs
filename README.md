@@ -28,8 +28,6 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 * **Email:** barissavas17@gmail.com
 
-<br>
-<br />
 
 ### Languages and Tools:
 
