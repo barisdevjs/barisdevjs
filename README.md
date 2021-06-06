@@ -1,7 +1,5 @@
 ### Hi there, I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 
-![Software Engineer](https://media-exp3.licdn.com/dms/image/C4E03AQHyR-46Kie5Cg/profile-displayphoto-shrink_800_800/0/1620944801387?e=1628726400&v=beta&t=VoncsUnDKaPI7LeRKNc595Q2JPTxRTlcicVilk5yaJE)
-
 **barisdevjs/barisdevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file)gives you to a short info about me.
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
