@@ -9,6 +9,10 @@
 * **Timezone:** GMT+03:00
 * **Pronouns:** He
 
+## About Me ##
+
+I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using JavaScript, CSS, React.js. I love using my analytic skills to troubleshoot issues and to find solutions whether its using web development tools .I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
+
 - 🔭 I’m currently working on js projects
 - 🌱 I’m currently learning reactjs
 - 👯 I’m looking to collaborate on any project that I could add my ideas
