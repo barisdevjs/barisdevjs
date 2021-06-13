@@ -23,8 +23,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 * **Email:** barissavas17@gmail.com
 
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=gruvbox" width="600" /></p>
- </p>
+![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=radical)
 
 ### Languages and Tools:   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 
@@ -40,7 +39,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" src="https://img.icons8.com/nolan/40/github.png"/>
 
-![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=radical)
+
 
 
 
