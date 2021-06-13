@@ -1,6 +1,5 @@
 ### Hi there, I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 
-** This is a ✨ _special_ ✨ repository because it gives you to a short info about me.
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
