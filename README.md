@@ -1,6 +1,7 @@
 ### Hi there, I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 
 ** This is a ✨ _special_ ✨ repository because it gives you to a short info about me.
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
@@ -28,7 +29,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>
 
-### Languages and Tools:   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>
+### Languages and Tools:   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
