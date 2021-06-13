@@ -7,7 +7,6 @@
 * **Title:** Software Engineer - Data Engineer -Front End Developer
 * **Skills:** HTML,  CSS, JavaSript, React.js, 
 * **Timezone:** GMT+03:00
-* **Pronouns:** He
 
 ## About Me ##
 
@@ -17,8 +16,6 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 - 🌱 I’m currently learning reactjs
 - 👯 I’m looking to collaborate on any project that I could add my ideas
 - 🥅 2021 Goals: Learn and improve myself as much as I can
-- ⚡ Fun fact: Coding is not so difficult if you can give enough of your time.
-
 
 ### Connect with me:
 
@@ -28,11 +25,8 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 * **Email:** barissavas17@gmail.com
 
-
- 
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>
-
 
 ### Languages and Tools:
 
