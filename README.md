@@ -19,9 +19,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 ### Connect with me:
 
-*  [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="barisdevjs | LinkedIn" width="50px" />](https://www.linkedin.com/in/bar%C4%B1%C5%9F-sava%C5%9F-6300b3212/)
-
-<br><br/>
+*  [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="barisdevjs | LinkedIn" width="30px" />](https://www.linkedin.com/in/bar%C4%B1%C5%9F-sava%C5%9F-6300b3212/)
 
 * **Email:** barissavas17@gmail.com
 
