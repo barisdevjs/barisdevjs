@@ -2,11 +2,11 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<hr>
+
 <p align="center">
-  <img src="developer.gif" title="gif">
+  <img src="https://github.com/auravin/Java-React-Bootcamp/raw/master/developer.gif" title="gif">
 </p>
-<hr>
+
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
