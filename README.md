@@ -40,6 +40,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" src="https://img.icons8.com/nolan/40/github.png"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisdevjs)](https://github.com/barisdevjs/github-readme-stats)
+![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=radical)
+
 
 
