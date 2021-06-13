@@ -2,6 +2,12 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<hr>
+<p align="center">
+  <img src="developer.gif" title="gif">
+</p>
+<hr>
+
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
 * **Title:** Software Engineer - Data Engineer -Front End Developer
@@ -39,7 +45,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" src="https://img.icons8.com/nolan/40/github.png"/>
 
-<h3 align="center"> <a href="https://github.com/barisdevjs"> Page Up! </a> </h3>
+
 
 
 
