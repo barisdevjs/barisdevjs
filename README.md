@@ -2,7 +2,7 @@
 <p align="center">
   <img src="developer.gif" title="gif">
 </p>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
+
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
