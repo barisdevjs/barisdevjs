@@ -28,9 +28,9 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 * **Email:** barissavas17@gmail.com
 
- <p><a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
+
  
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=eminemtnn27&show_icons=true&theme=gruvbox" width="600" /></p>
+<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>
 
 
