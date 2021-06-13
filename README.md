@@ -1,12 +1,6 @@
 ### Hi there, I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-
-<p align="center">
-  <img src="https://github.com/auravin/Java-React-Bootcamp/raw/master/developer.gif" title="gif">
-</p>
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
