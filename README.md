@@ -23,6 +23,11 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 *  [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="barisdevjs | LinkedIn" width="30px" />](https://www.linkedin.com/in/bar%C4%B1%C5%9F-sava%C5%9F-6300b3212/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barisdevjs&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisdevjs&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
+</p>
+
 * **Email:** barissavas17@gmail.com
 
 ![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisdevjs&show_icons=true&theme=radical)
