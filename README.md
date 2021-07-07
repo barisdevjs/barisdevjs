@@ -3,7 +3,6 @@
   <img src="developer.gif" title="gif">
 </p>
 
-
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
 
 * **Title:** Software Engineer - Data Engineer -Front End Developer
@@ -16,7 +15,6 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 - 🔭 I’m currently working on js projects
 - 🌱 I’m currently learning reactjs
-- 👯 I’m looking to collaborate on any project that I could add my ideas
 - 🥅 2021 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
