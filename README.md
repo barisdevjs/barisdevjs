@@ -3,18 +3,18 @@
   <img src="developer.gif" title="gif">
 </p>
 
-## I'm a Mechanical Engineer, Jr. Frontend Developer, and nature-lover!
+## I'm a Jr. Frontend Developer, and nature-lover!
 
-* **Title:** Software Engineer - Data Engineer -Front End Developer
-* **Skills:** HTML,  CSS, JavaSript, React.js, 
+* **Title:** Software Engineer  -Front End Developer
+* **Skills:** HTML,  CSS, JavaSript, React.js, Angular
 * **Timezone:** GMT+03:00
 
 ## About Me ##
 
-I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js. I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
+I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
 
 - 🔭 I’m currently working on js projects
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning Angular
 - 🥅 2021 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
