@@ -15,7 +15,7 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 - 🔭 I’m currently working on js projects
 - 🌱 I’m currently learning Angular
-- 🥅 2021 Goals: Learn and improve myself as much as I can
+- 🥅 2022 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
 
