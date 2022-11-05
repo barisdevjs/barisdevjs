@@ -11,10 +11,10 @@
 
 ## About Me ##
 
-I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
+I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js ,Angular and Typescript . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
 
 - 🔭 I’m currently working on js projects
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and SQL
 - 🥅 2022 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
@@ -37,13 +37,13 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt='typscript' width='40' height='40' />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Github" src="https://img.icons8.com/nolan/40/github.png"/>
-<img align="left" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img align="left" alt="sql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br>
 <br>
