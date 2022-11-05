@@ -1,4 +1,4 @@
-### Hi there, I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
+### Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 <p align="center">
   <img src="developer.gif" title="gif">
 </p>
@@ -23,11 +23,9 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barisdevjs&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisdevjs&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
 </p>
 
 * **Email:** barissavas17@gmail.com
-
 
 
 ### Languages and Tools:   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
@@ -45,6 +43,12 @@ I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications usi
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" src="https://img.icons8.com/nolan/40/github.png"/>
+<img align="left" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
+<br>
+<br>
+
+### Show some ❤️ by starring some of the repositories!
 
 
 
