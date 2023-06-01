@@ -3,10 +3,10 @@
   <img src="developer.gif" title="gif">
 </p>
 
-## I'm a Jr. Frontend Developer, and nature-lover!
+## I'm a System Engineer & Frontend Developer!
 
-* **Title:** Software Engineer  -Front End Developer
-* **Skills:** HTML,  CSS, JavaScript, React.js, Angular, Typescript
+* **Title:** Software Engineer  - Front End Developer
+* **Skills:** HTML,  CSS, JavaScript, React.js, Angular, Typescript, Next.js, PostgreSQL and MongoDb
 * **Timezone:** GMT+03:00
 
 ## About Me ##
