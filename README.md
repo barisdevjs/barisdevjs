@@ -1,4 +1,4 @@
-### Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
+### Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> I'm Barış SAVAŞ - [barisdevjs](https://github.com/barisdevjs) 👋 
 <p align="center">
   <img src="developer.gif" title="gif">
 </p>
