@@ -14,7 +14,7 @@
 I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js ,Angular and Typescript . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
 
 - 🔭 I’m currently working on js projects
-- 🌱 I’m currently learning Go and SQL
+- 🌱 I’m currently learning Go and Next.js
 - 🥅 2023 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
