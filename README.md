@@ -3,19 +3,19 @@
   <img src="developer.gif" title="gif">
 </p>
 
-## I'm a System Engineer & Frontend Developer!
+## I'm a System Engineer & FullStack Developer!
 
-* **Title:** Software Engineer  - Front End Developer
+* **Title:** Software Engineer  - FullStack Developer
 * **Skills:** HTML,  CSS, JavaScript, React.js, Angular, Typescript, Next.js, PostgreSQL and MongoDb
 * **Timezone:** GMT+03:00
 
 ## About Me ##
 
-I'm Barış SAVAŞ, a Front-End Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js ,Angular and Typescript . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
+I'm Barış SAVAŞ, a FullStack Developer who enjoys coding new applications using HTML5, CSS, JavaScript, React.js ,Angular and Typescript . I love using my analytic skills to troubleshoot issues and to find solutions using web development tools. I combine my talents and my personal creative thoughts with the latest achievements in my field. Whilst doing that, I have also been following, learning and practising new frameworks, software libraries and programming languages that abolishes the limitations.
 
-- 🔭 I’m currently working on js projects
+- 🔭 I’m currently working on Next-tsx projects
 - 🌱 I’m currently learning Go and Next.js
-- 🥅 2023 Goals: Learn and improve myself as much as I can
+- 🥅 2024 Goals: Learn and improve myself as much as I can
 
 ### Connect with me:
 
